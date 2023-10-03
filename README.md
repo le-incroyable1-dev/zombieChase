@@ -2,7 +2,6 @@
 Seawolves team under the POCO Game Development Academy by Xiaomi India
 
 Kill the zombies and save the world from the apocalypse !
-
 The player is equipped with a sword a gun powerup. The game also includes an energy hit that allows the player to use a special attack.
 
 
@@ -13,10 +12,7 @@ Get the apk here : https://drive.google.com/file/d/1EeCaU_HM5yr8iAILKKYTXkbm_Hgy
 Team Members -
 
 Rahul Vinod
-
 Hamza Rizwan
-
 Aurav S. Tomar
-
 Ankush Gaharwar
 
