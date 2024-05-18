@@ -1,18 +1,14 @@
 # Zombie Chase Saga
-Seawolves team under the POCO Game Development Academy by Xiaomi India
+Seawolves Team under the POCO Game Development Academy by Xiaomi India
 
-Kill the zombies and save the world from the apocalypse !
-The player is equipped with a sword and a gun powerup. The game also includes an energy hit that allows the player to use a special attack.
+Development of infinite runner game application for POCO India under the POCO Game Development Academy using Unity3D and C#. I Led a team of UX designers, level designers, game programmers and developers to deliver the project in 5 months. Implemented object oriented game programming (OOP), game design, application testing and profiling to improve the application performance.
 
-
-![Screenshot 2021-12-02 002952](https://user-images.githubusercontent.com/47893192/144296902-914b0421-72ce-4526-b683-b2f5192a418f.png)
-
-Get the apk here : https://drive.google.com/file/d/1EeCaU_HM5yr8iAILKKYTXkbm_HgyajgS/view?usp=sharing
+Get the apk here : https://shorturl.at/DuYML
 
 Team Members -
 
-Rahul Vinod,
-Hamza Rizwan, 
-Aurav S. Tomar,
+Rahul Vinod <br />
+Hamza Rizwan <br />
+Aurav S Tomar <br />
 Ankush Gaharwar
 
